@@ -5,7 +5,7 @@ Pero bueno hablemos de TD y de este repositorio, aca la lista de componentes .to
 
 ## Componentes 🚀:
 
-### 1️`⃣ Desomarizad.Tox`ox
+### `Desomarizador`
 
 ![](assets/5aab5fbd95fba4ed4b5ce8c96db7d19fbe67e5f2.png)
 
@@ -17,11 +17,9 @@ Para con base en una tabla use un replicator que "separa" el input en 5 outputs
 
 ![](assets/d8ea42e3feb46bda858071a0befb0aeac9557e56.png)
 
-
-
 **(Layout y Viewer incluidos en la compra de cualquier componente 👍)**
 
-### 2️`⃣ Omarizador.T`ox
+### `Omarizador`
 
 ![](assets/6ba9134e792e2460be84a62a5c278f567a49884d.png)
 
@@ -33,7 +31,7 @@ Y te regresa solo 1 output "Omarizado":
 
 ![](assets/52e4ffdbf811f170554739cb4126bc340c61b370.png)
 
-### 3️`⃣ Rotar_2aso.`x⃣
+### `Rotador_2`
 
 ![](assets/26b20c1ed59d7c28cbfa0d264785ae42161a6ad9.png)
 
@@ -45,14 +43,14 @@ Este te permite ver la rotacion entre caras.
 
 ![](assets/6c9cb8a3d4a8ef869e617ec270e1a5105236d3e9.gif)
 
-### 4️`⃣ Siamesadoro.`x⃣
+### `Siamesador`
 
 ![](assets/4bd9e2c094428ad959e720b361cc008dce8cbeff.png)
 
 Recibe solo un input y te entrega 2 outputs duplicados y ajustados o mitad y mitad del contenido del input 🔪:
 ![](assets/9cef4f6e1ec480864f2d84dfdf94cd54e1826bf5.gif)
 
-### 5️`⃣ Sliceador_de_Tiraso.`x⃣
+### `Sliceador_de_Tiras`
 
 ![](assets/76c6fb43c88652eda220a07c40d2695eb0bff6f2.png)
 
